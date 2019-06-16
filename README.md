@@ -3,8 +3,7 @@
 
 [Проект по книжке Фримана про Ангуляр](https://svkirienko.github.io/Freeman_A/ "Пытаюсь сделать по книге")
 
-[Незабудка!] ("Знакомство с  html и css")
+![Привет] (https://vignette.wikia.nocookie.net/disney/images/0/09/Youloveit_ru_disney_fairy74.png/revision/latest?cb=20181222152509&path-prefix=ru)
 
-![] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8I3wv64_ENKBWU12u7UNm8eklFzOThzLlvEZBxv43JpARDX1)
 
 *© 2019 Сайт Светы Кириенко*
