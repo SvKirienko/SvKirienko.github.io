@@ -1,5 +1,5 @@
 
-# SvKirienko.github.io
+## SvKirienko.github.io
 
 [Проект по книжке Фримана про Ангуляр](https://svkirienko.github.io/Freeman_A/ "Пытаюсь сделать по книге")
 
