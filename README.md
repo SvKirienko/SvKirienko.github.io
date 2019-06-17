@@ -1,6 +1,6 @@
 [Ссылка на Незабудку!](https://svkirienko.github.io/Nezabudka/src/ "Проба html и css")
 
-![Привет](https://vignette.wikia.nocookie.net/disney/images/0/09/Youloveit_ru_disney_fairy74.png/revision/latest?cb=20181222152509&path-prefix=ru)
+![Привет](https://github.com/SvKirienko/SvKirienko.github.io/blob/master/6XDM9OXO5XI.jpg)
 
 
 *© 2019 Сайт Светы Кириенко*
