@@ -1,0 +1,86 @@
+body {
+background: url(https://cdn.shopify.com/s/files/1/1969/6303/products/SBBL47_4b_1024x1024@2x.jpg?v=1532699284) fixed;
+background-size: cover;
+}
+
+h1 {
+font-family: 'Pacifico', cursive;
+color: #4682B4;
+opacity: 0.9;
+font-size: 35px;
+margin-top: 30px;
+margin-bottom: 10px; 
+}
+
+.p1 {
+font-family: 'Caveat';
+color: #e18cde;
+font-size: 25px;
+text-align: center;
+line-height: 1;
+font-weight: bold;
+}
+
+.form-control {
+color: #4682B4;
+border: 2px solid #3c83be;
+opacity: 0.6;
+font-family: 'Pacifico';
+}
+
+.form-control:focus {
+color: #4682B4;
+}
+
+.btn-primary {
+	font-family: 'Pacifico', cursive;
+ color: #fff;
+ background-color: #3c83be;
+ opacity: 0.8;
+ border-color: #3c83be;
+}
+
+.btn-primary:hover {
+ color: #fff;
+ background-color: #0069d9;
+ border-color: #0062cc;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+ box-shadow: 0 0 0 0;
+}
+
+.table {
+margin-top: 60px;
+color: #3c83be;
+font-family: 'Courgette', cursive;
+border-radius: 10px;
+overflow: hidden;
+}
+
+.table-hover tbody tr:hover {
+font-family: 'Courgette', cursive;
+color: #0069d9;
+background-color: rgba(0, 123, 255, 0.05);
+}
+
+th, .dyn {
+text-align: center;
+}
+
+.table td, .table thead th, .table tbody + tbody {
+padding: 0.60rem;
+border: 2px solid #75a9d3;
+}
+
+a, .p2 {
+font-family: 'Pacifico';
+color: #4682B4;
+}
+
+
+
+
+
+
+
